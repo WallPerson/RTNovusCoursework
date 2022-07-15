@@ -1,0 +1,16 @@
+C:\Users\Nibiru\source\repos\Diamond\bin\Debug\net5.0\Diamond.exe
+C:\Users\Nibiru\source\repos\Diamond\bin\Debug\net5.0\Diamond.deps.json
+C:\Users\Nibiru\source\repos\Diamond\bin\Debug\net5.0\Diamond.runtimeconfig.json
+C:\Users\Nibiru\source\repos\Diamond\bin\Debug\net5.0\Diamond.runtimeconfig.dev.json
+C:\Users\Nibiru\source\repos\Diamond\bin\Debug\net5.0\Diamond.dll
+C:\Users\Nibiru\source\repos\Diamond\bin\Debug\net5.0\ref\Diamond.dll
+C:\Users\Nibiru\source\repos\Diamond\bin\Debug\net5.0\Diamond.pdb
+C:\Users\Nibiru\source\repos\Diamond\obj\Debug\net5.0\Diamond.csproj.AssemblyReference.cache
+C:\Users\Nibiru\source\repos\Diamond\obj\Debug\net5.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nibiru\source\repos\Diamond\obj\Debug\net5.0\Diamond.AssemblyInfoInputs.cache
+C:\Users\Nibiru\source\repos\Diamond\obj\Debug\net5.0\Diamond.AssemblyInfo.cs
+C:\Users\Nibiru\source\repos\Diamond\obj\Debug\net5.0\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\Nibiru\source\repos\Diamond\obj\Debug\net5.0\Diamond.dll
+C:\Users\Nibiru\source\repos\Diamond\obj\Debug\net5.0\ref\Diamond.dll
+C:\Users\Nibiru\source\repos\Diamond\obj\Debug\net5.0\Diamond.pdb
+C:\Users\Nibiru\source\repos\Diamond\obj\Debug\net5.0\Diamond.genruntimeconfig.cache

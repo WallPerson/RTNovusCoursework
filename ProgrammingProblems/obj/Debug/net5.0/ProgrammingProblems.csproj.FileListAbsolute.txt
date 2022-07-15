@@ -1,0 +1,16 @@
+C:\Users\Nibiru\source\repos\ProgrammingProblems\bin\Debug\net5.0\ProgrammingProblems.exe
+C:\Users\Nibiru\source\repos\ProgrammingProblems\bin\Debug\net5.0\ProgrammingProblems.deps.json
+C:\Users\Nibiru\source\repos\ProgrammingProblems\bin\Debug\net5.0\ProgrammingProblems.runtimeconfig.json
+C:\Users\Nibiru\source\repos\ProgrammingProblems\bin\Debug\net5.0\ProgrammingProblems.runtimeconfig.dev.json
+C:\Users\Nibiru\source\repos\ProgrammingProblems\bin\Debug\net5.0\ProgrammingProblems.dll
+C:\Users\Nibiru\source\repos\ProgrammingProblems\bin\Debug\net5.0\ref\ProgrammingProblems.dll
+C:\Users\Nibiru\source\repos\ProgrammingProblems\bin\Debug\net5.0\ProgrammingProblems.pdb
+C:\Users\Nibiru\source\repos\ProgrammingProblems\obj\Debug\net5.0\ProgrammingProblems.csproj.AssemblyReference.cache
+C:\Users\Nibiru\source\repos\ProgrammingProblems\obj\Debug\net5.0\ProgrammingProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nibiru\source\repos\ProgrammingProblems\obj\Debug\net5.0\ProgrammingProblems.AssemblyInfoInputs.cache
+C:\Users\Nibiru\source\repos\ProgrammingProblems\obj\Debug\net5.0\ProgrammingProblems.AssemblyInfo.cs
+C:\Users\Nibiru\source\repos\ProgrammingProblems\obj\Debug\net5.0\ProgrammingProblems.csproj.CoreCompileInputs.cache
+C:\Users\Nibiru\source\repos\ProgrammingProblems\obj\Debug\net5.0\ProgrammingProblems.dll
+C:\Users\Nibiru\source\repos\ProgrammingProblems\obj\Debug\net5.0\ref\ProgrammingProblems.dll
+C:\Users\Nibiru\source\repos\ProgrammingProblems\obj\Debug\net5.0\ProgrammingProblems.pdb
+C:\Users\Nibiru\source\repos\ProgrammingProblems\obj\Debug\net5.0\ProgrammingProblems.genruntimeconfig.cache

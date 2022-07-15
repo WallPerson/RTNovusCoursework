@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e8d5490-a8fe-40b5-a52b-5f09d54cd4a0": {
+      "ProjectGuid": "8e8d5490-a8fe-40b5-a52b-5f09d54cd4a0",
+      "DisplayName": "ProgrammingProblems",
+      "ColorIndex": 0
+    },
+    "9fcc2f97-df7e-4322-9636-95a76ce89f6d": {
+      "ProjectGuid": "9fcc2f97-df7e-4322-9636-95a76ce89f6d",
+      "DisplayName": "Anagrams",
+      "ColorIndex": 1
+    },
+    "07ed91c1-7b48-4f1b-8292-c447c7dedbba": {
+      "ProjectGuid": "07ed91c1-7b48-4f1b-8292-c447c7dedbba",
+      "DisplayName": "StarsOnScreen",
+      "ColorIndex": 2
+    },
+    "172eaef1-cc6c-4a4e-8c5c-ee1a929fb137": {
+      "ProjectGuid": "172eaef1-cc6c-4a4e-8c5c-ee1a929fb137",
+      "DisplayName": "Diamond",
+      "ColorIndex": 3
+    },
+    "8d2c3491-5931-4a27-924f-350c98318480": {
+      "ProjectGuid": "8d2c3491-5931-4a27-924f-350c98318480",
+      "DisplayName": "ReverseString",
+      "ColorIndex": 4
+    },
+    "cdced4d5-afd9-4d95-9b0c-ebfe9267a050": {
+      "ProjectGuid": "cdced4d5-afd9-4d95-9b0c-ebfe9267a050",
+      "DisplayName": "Palindrome",
+      "ColorIndex": 5
+    },
+    "8dfc1d2d-0eb9-4df1-aa9e-5e8c96635c4f": {
+      "ProjectGuid": "8dfc1d2d-0eb9-4df1-aa9e-5e8c96635c4f",
+      "DisplayName": "SumDigits",
+      "ColorIndex": 6
+    },
+    "d863e4ec-a773-4d22-9833-78f78753b3d3": {
+      "ProjectGuid": "d863e4ec-a773-4d22-9833-78f78753b3d3",
+      "DisplayName": "TwoSum",
+      "ColorIndex": 7
+    },
+    "005d3465-acfd-4a41-a2d4-d6f860ac499c": {
+      "ProjectGuid": "005d3465-acfd-4a41-a2d4-d6f860ac499c",
+      "DisplayName": "PrimeNum",
+      "ColorIndex": 8
+    },
+    "e2cfd485-7347-44e3-9347-c99e2be5852b": {
+      "ProjectGuid": "e2cfd485-7347-44e3-9347-c99e2be5852b",
+      "DisplayName": "NextPrime",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

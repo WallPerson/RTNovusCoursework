@@ -1,0 +1,16 @@
+C:\Users\Nibiru\source\repos\Anagrams\bin\Debug\net5.0\Anagrams.exe
+C:\Users\Nibiru\source\repos\Anagrams\bin\Debug\net5.0\Anagrams.deps.json
+C:\Users\Nibiru\source\repos\Anagrams\bin\Debug\net5.0\Anagrams.runtimeconfig.json
+C:\Users\Nibiru\source\repos\Anagrams\bin\Debug\net5.0\Anagrams.runtimeconfig.dev.json
+C:\Users\Nibiru\source\repos\Anagrams\bin\Debug\net5.0\Anagrams.dll
+C:\Users\Nibiru\source\repos\Anagrams\bin\Debug\net5.0\ref\Anagrams.dll
+C:\Users\Nibiru\source\repos\Anagrams\bin\Debug\net5.0\Anagrams.pdb
+C:\Users\Nibiru\source\repos\Anagrams\obj\Debug\net5.0\Anagrams.csproj.AssemblyReference.cache
+C:\Users\Nibiru\source\repos\Anagrams\obj\Debug\net5.0\Anagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nibiru\source\repos\Anagrams\obj\Debug\net5.0\Anagrams.AssemblyInfoInputs.cache
+C:\Users\Nibiru\source\repos\Anagrams\obj\Debug\net5.0\Anagrams.AssemblyInfo.cs
+C:\Users\Nibiru\source\repos\Anagrams\obj\Debug\net5.0\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\Nibiru\source\repos\Anagrams\obj\Debug\net5.0\Anagrams.dll
+C:\Users\Nibiru\source\repos\Anagrams\obj\Debug\net5.0\ref\Anagrams.dll
+C:\Users\Nibiru\source\repos\Anagrams\obj\Debug\net5.0\Anagrams.pdb
+C:\Users\Nibiru\source\repos\Anagrams\obj\Debug\net5.0\Anagrams.genruntimeconfig.cache

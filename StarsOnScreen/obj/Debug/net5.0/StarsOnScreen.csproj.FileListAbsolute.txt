@@ -1,0 +1,15 @@
+C:\Users\Nibiru\source\repos\StarsOnScreen\bin\Debug\net5.0\StarsOnScreen.exe
+C:\Users\Nibiru\source\repos\StarsOnScreen\bin\Debug\net5.0\StarsOnScreen.deps.json
+C:\Users\Nibiru\source\repos\StarsOnScreen\bin\Debug\net5.0\StarsOnScreen.runtimeconfig.json
+C:\Users\Nibiru\source\repos\StarsOnScreen\bin\Debug\net5.0\StarsOnScreen.runtimeconfig.dev.json
+C:\Users\Nibiru\source\repos\StarsOnScreen\bin\Debug\net5.0\StarsOnScreen.dll
+C:\Users\Nibiru\source\repos\StarsOnScreen\bin\Debug\net5.0\ref\StarsOnScreen.dll
+C:\Users\Nibiru\source\repos\StarsOnScreen\bin\Debug\net5.0\StarsOnScreen.pdb
+C:\Users\Nibiru\source\repos\StarsOnScreen\obj\Debug\net5.0\StarsOnScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nibiru\source\repos\StarsOnScreen\obj\Debug\net5.0\StarsOnScreen.AssemblyInfoInputs.cache
+C:\Users\Nibiru\source\repos\StarsOnScreen\obj\Debug\net5.0\StarsOnScreen.AssemblyInfo.cs
+C:\Users\Nibiru\source\repos\StarsOnScreen\obj\Debug\net5.0\StarsOnScreen.csproj.CoreCompileInputs.cache
+C:\Users\Nibiru\source\repos\StarsOnScreen\obj\Debug\net5.0\StarsOnScreen.dll
+C:\Users\Nibiru\source\repos\StarsOnScreen\obj\Debug\net5.0\ref\StarsOnScreen.dll
+C:\Users\Nibiru\source\repos\StarsOnScreen\obj\Debug\net5.0\StarsOnScreen.pdb
+C:\Users\Nibiru\source\repos\StarsOnScreen\obj\Debug\net5.0\StarsOnScreen.genruntimeconfig.cache

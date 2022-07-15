@@ -1,0 +1,15 @@
+C:\Users\Nibiru\source\repos\NextPrime\bin\Debug\net5.0\NextPrime.exe
+C:\Users\Nibiru\source\repos\NextPrime\bin\Debug\net5.0\NextPrime.deps.json
+C:\Users\Nibiru\source\repos\NextPrime\bin\Debug\net5.0\NextPrime.runtimeconfig.json
+C:\Users\Nibiru\source\repos\NextPrime\bin\Debug\net5.0\NextPrime.runtimeconfig.dev.json
+C:\Users\Nibiru\source\repos\NextPrime\bin\Debug\net5.0\NextPrime.dll
+C:\Users\Nibiru\source\repos\NextPrime\bin\Debug\net5.0\ref\NextPrime.dll
+C:\Users\Nibiru\source\repos\NextPrime\bin\Debug\net5.0\NextPrime.pdb
+C:\Users\Nibiru\source\repos\NextPrime\obj\Debug\net5.0\NextPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nibiru\source\repos\NextPrime\obj\Debug\net5.0\NextPrime.AssemblyInfoInputs.cache
+C:\Users\Nibiru\source\repos\NextPrime\obj\Debug\net5.0\NextPrime.AssemblyInfo.cs
+C:\Users\Nibiru\source\repos\NextPrime\obj\Debug\net5.0\NextPrime.csproj.CoreCompileInputs.cache
+C:\Users\Nibiru\source\repos\NextPrime\obj\Debug\net5.0\NextPrime.dll
+C:\Users\Nibiru\source\repos\NextPrime\obj\Debug\net5.0\ref\NextPrime.dll
+C:\Users\Nibiru\source\repos\NextPrime\obj\Debug\net5.0\NextPrime.pdb
+C:\Users\Nibiru\source\repos\NextPrime\obj\Debug\net5.0\NextPrime.genruntimeconfig.cache
